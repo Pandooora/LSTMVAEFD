@@ -13,7 +13,7 @@
     ![image](9326dfbed1589c080069f16d3c1d775b.png)
   - Dataset
     
-    We split the dataset as 80 for train and 166 for test. For each part we would provide the jpg file and corresponding xml file. The annotations follow the rule of PascalVOC, but only the <name> and <bndbox> in <object> is meaningful.
+    We split the dataset as 80 for train and 166 for test. For each part we would provide the jpg file and corresponding xml file. The annotations follow the rule of PascalVOC, but only the <font color=#778899 >\<name\></font> and <font color=#778899 >\<bndbox\></font> in <font color=#778899 >\<object\></font> is meaningful.
     
     ![image](ca8268c41302d07bf26eea074e359c37.png)
   - Email:<font color=#4682B4 >hjaptx@163.com</font>
